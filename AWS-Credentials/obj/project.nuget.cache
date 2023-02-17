@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyDacqyvrGylnMuqLyLQx57CdimNCAro5l+oIfJrjJmGpLfgIh1b+fHssM0irz8MkZoFXjwCbqcsqrGozAIcYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajreese\\Documents\\csharp33\\AWS-Credentials\\AWS-Credentials\\AWS-Credentials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajreese\\.nuget\\packages\\awssdk.core\\3.7.105.4\\awssdk.core.3.7.105.4.nupkg.sha512"
+  ],
+  "logs": []
+}
