@@ -14,10 +14,5 @@ REQUIRED:  Obtain an AWS key and secret key. Place them in the .NET
 2. Add "using Amazon;" and "using Amazon.Runtime.CredentialManagement;"
    to your libraries at the top of the code.
    
-3. From Program.cs, run the following two lines with your profile name
-   and key, then with your profile name and region:
-       
-    WriteProfile("my_new_profile", "AWS-ACCESS-KEY-VALUE", "AWS-SECRET-KEY-VALUE");
-    AddRegion("my_new_profile", RegionEndpoint.USEast1);
-        
-4. Once the SDK Store is written, REMOVE THOSE KEYS FROM YOUR CODE.
+3. The program will prompt you to enter an AWS Access Key, AWS Secret Key, and Profile Name.
+   Then it writes the values into the SDK Store. 
